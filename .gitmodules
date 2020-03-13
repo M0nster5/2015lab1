@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:cs109/content.git
