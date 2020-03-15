@@ -1,1 +1,4 @@
 
+[submodule "content"]
+	path = content
+	url = git@github.com:M0nster5/content.git
